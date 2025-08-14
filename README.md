@@ -43,7 +43,7 @@
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nimesh-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesh-dilshan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nimesh-dilshan-332690351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nimesh-dilshan-332690351" height="30" width="40" /></a>
 <a href="https://fb.com/nimeshdilshan869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimeshdilshan869" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@nimesh869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nimesh869" height="30" width="40" /></a>
 </p>
