@@ -26,11 +26,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,Laraval"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss,vuejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
