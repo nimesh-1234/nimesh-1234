@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN Stack development**
 
-- 📫 How to reach me **nimeshdilshan869@gmail.com**
+- 📫 How to reach me **nimeshdilshan869@gmail.com**  
 
 - ⚡ Fun fact **Nimesh**
 <br><br><br><br>
@@ -26,7 +26,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,laraval"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,Laraval"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
