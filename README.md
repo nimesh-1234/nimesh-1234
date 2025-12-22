@@ -12,10 +12,14 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **Sri Lanka Institute of Advanced Technical Education**
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **Full Stack development**
 
-- 📫 How to reach me **nimeshdilshan869@gmail.com**  
+- 💼 Intern at **Rivolax Company**
 
+- 📫 How to reach me **nimeshdilshan869@gmail.com**
+
+- 🏢 GitLab: [nimesh-1234](https://gitlab.com/nimesh-1234)
+    
 - ⚡ Fun fact **Nimesh**
 <br><br><br><br>
 
