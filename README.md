@@ -69,7 +69,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&theme=dark&layout=compact&v=5" alt="Top Languages" />
 </div>
 
 <br>
