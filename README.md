@@ -16,21 +16,23 @@
 
 - 💼 Intern at **Rivolax Company**
 
+- 🌐 **Portfolio:** [Check out my work here](https://nimesh-1234.github.io/nimesh-portfolio/)
+
 - 📫 How to reach me **nimeshdilshan869@gmail.com**
 
 - 🏢 GitLab: [nimesh-1234](https://gitlab.com/nimesh-1234)
     
 - ⚡ Fun fact **Nimesh**
-<br><br><br><br>
+
+<br clear="all"><br><br>
 
 <hr width="100%" >
-
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,laraval"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,laravel"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -57,14 +59,14 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?user=nimesh-1234&show_icons=true&theme=dark&locale=en" alt="nimesh-1234" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=dark&locale=en" alt="nimesh-1234" /></p>
 <br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=dark" alt="nimesh-1234" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&show_icons=true&theme=dark&locale=en&layout=compact" alt="nimesh-1234" /></p>
+<br clear="all">
 <br>
 <hr width="100%" >
 
