@@ -57,21 +57,31 @@
 
 <h3>My GitHub Stats</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<p align="center">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=dark&locale=en&v=1" alt="nimesh-1234" /></p>
-<br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=dark&locale=en&v=3" alt="nimesh-1234" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=dark" alt="nimesh-1234" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=dark" alt="nimesh-1234" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&show_icons=true&theme=dark&locale=en&layout=compact&v=3" alt="nimesh-1234" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&show_icons=true&theme=dark&locale=en&layout=compact&v=1" alt="nimesh-1234" /></p>
-<br clear="all">
 <br>
 <hr width="100%" >
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://fb.com/nimeshdilshan869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimeshdilshan869" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nimesh869" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://fb.com/nimeshdilshan869" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nimesh869" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
+  </a>
 </p>
