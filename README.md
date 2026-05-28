@@ -54,12 +54,13 @@
 
 <br>
 <hr width="100%" >
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-<h3>My GitHub Stats</h3>
+----	
 
-<div align="center">
-  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
-</div>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight_duo" alt="nimesh-1234" /></p>
+
+</details>
 <br>
 
 <div align="center">
