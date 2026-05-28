@@ -63,17 +63,7 @@
 </details>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=dark" alt="GitHub Streak" />
-</div>
-<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh-1234&theme=dark&layout=compact&v=5" alt="Top Languages" />
-</div>
-
-<br>
 <hr width="100%" >
 
 <h3 align="center">Connect with me 🤝</h3>
