@@ -60,26 +60,36 @@
 <br>
 <hr width="100%">
 
-<!-- 1️⃣ GitHub Metrics Dashboard & Original Stats -->
+<!-- 1️⃣ GitHub Metrics Dashboard & Original Stats (Advanced Grid) -->
 ## ⚙️ GitHub Analytics & Metrics
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="140" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="140" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="400" />
-</p>
-
-<h3 align="left">📈 Infographics & Metrics</h3>
 <p align="center">
-  <img src="https://metrics.lecoq.io/nimesh-1234?template=classic&config.timezone=Asia%2FColombo&base.header=0&base.activity=1&base.community=1&base.repositories=1&metadata=0&hide_border=true" width="100%" />
+  <img align="right" alt="Coding GIF" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin-left: 15px;">
+</p>
+
+<!-- Side-by-Side Cards (Increased Height) -->
+<p align="left">
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="185" />
+  </a>
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="185" />
+  </a>
+</p>
+
+<!-- Most Used Languages Card (Increased Width to Balance Layout) -->
+<p align="left">
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
+  </a>
+</p>
+
+<!-- Premium 100% Working Metrics Dashboard Alternative -->
+<h3 align="left">📊 Profile Trophy Room</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nimesh-1234&theme=tokyonight&no-bg=true&margin-w=15" alt="nimesh-1234 Trophies" width="100%"/>
+  </a>
 </p>
 
 <br clear="all">
