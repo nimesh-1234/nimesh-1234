@@ -85,11 +85,10 @@
 </p>
 
 <!-- Premium 100% Working Metrics Dashboard Alternative -->
+<!-- Premium 100% Working Metrics Dashboard Alternative -->
 <h3 align="left">📊 Profile Trophy Room</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nimesh-1234&theme=tokyonight&no-bg=true&margin-w=15" alt="nimesh-1234 Trophies" width="100%"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nimesh-1234&theme=tokyonight&no-bg=true&margin-w=15" alt="nimesh-1234 Trophies" style="max-width: 100%;" />
 </p>
 
 <br clear="all">
