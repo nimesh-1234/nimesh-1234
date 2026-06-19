@@ -84,15 +84,19 @@
   </a>
 </p>
 
-<!-- Premium 100% Working Metrics Dashboard Alternative -->
-<!-- Premium 100% Working Metrics Dashboard Alternative -->
-<!-- Premium 100% Working Metrics Dashboard Alternative -->
-<h3 align="left">📊 Profile Trophy Room</h3>
+<br clear="all">
+
+<h3 align="left">📈 Infographics & Metrics</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimesh-1234&theme=tokyonight&no-bg=true&margin-w=15" alt="nimesh-1234 Trophies" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh-1234&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
-<br clear="all">
+<h3 align="left">📊 Profile Growth Summary</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimesh-1234&theme=tokyonight" width="100%" />
+</p>
+
+<br>
 <hr width="100%">
 
 <h3 align="center">Connect with me 🤝</h3>
