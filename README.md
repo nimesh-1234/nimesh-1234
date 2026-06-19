@@ -3,7 +3,7 @@
 
 <!-- 4️⃣ Better Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;DevOps+%7C+Docker+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;DevOps+%7C+Docker+Enthusiaut;Always+Learning+New+Technologies" />
 </p>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimesh-1234&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-1234" /> </p> -->
@@ -96,7 +96,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimesh-1234&theme=tokyonight" width="100%" />
 </p>
 
-<br>
+<h3 align="left">📅 Weekly Coding Activity (WakaTime)</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nimesh-1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
+</p>
+
+<br clear="all">
 <hr width="100%">
 
 <h3 align="center">Connect with me 🤝</h3>
