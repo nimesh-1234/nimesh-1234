@@ -54,19 +54,21 @@
 
 <br>
 <hr width="100%" >
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="center">⚙️ My GitHub Stats</h3>
 
-<p align="center">
-  <a href="https://github.com/nimesh-1234">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nimesh-1234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/nimesh-1234">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<img align="right" alt="Coding" width="300"
+src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=dark&hide_border=true"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <hr width="100%" >
