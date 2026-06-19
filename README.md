@@ -98,7 +98,7 @@
 
 <h3 align="left">📅 Weekly Coding Activity (WakaTime)</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nimesh-1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
 </p>
 
 <br clear="all">
