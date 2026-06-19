@@ -1,79 +1,106 @@
-<h1 align="center">Hi 👋, I'm Nimesh Dilshan</h1>
+<!-- 6️⃣ Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Hi%20👋,%20I'm%20Nimesh%20Dilshan&fontSize=35&fontColor=ffffff&fontAlignY=45"/>
 
+<!-- 4️⃣ Better Typing Animation -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Software+Engineering;Java;Web+Developer;MERN+Stack+Developer;SLIATE"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;DevOps+%7C+Docker+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimesh-1234&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-1234" /> </p> -->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- 🧑‍🎓 I'm an Undergraduate at **Sri Lanka Institute of Advanced Technical Education**
-
-- 🌱 I’m currently learning **Full Stack development**
-
-- 💼 Intern at **Rivolax Company**
-
+- 🧑‍🎓 I'm an Undergraduate at **Sri Lanka Institute of Advanced Technical Education (SLIATE)**
+- 🌱 I’m currently learning **Full Stack development & DevOps systems**
+- 💼 Software Engineering Intern at **Rivolax Company**
 - 🌐 **Portfolio:** [Check out my work here](https://nimesh-1234.github.io/nimesh-portfolio/)
-
-- 📫 How to reach me **nimeshdilshan869@gmail.com**
-
+- 📫 How to reach me: **nimeshdilshan869@gmail.com**
 - 🏢 GitLab: [nimesh-1234](https://gitlab.com/nimesh-1234)
-    
-- ⚡ Fun fact **Nimesh**
+- ⚡ Fun fact: *"Turning coffee into production-ready scalable applications."*
 
-<br clear="all"><br><br>
+<br clear="all"><br>
 
-<hr width="100%" >
+<hr width="100%">
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none; width: 150px;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,php,python,express,nodejs,laravel"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss,vuejs"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,vuejs,js,tailwindcss,html,css"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Tools & Cloud:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating System:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating System:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr>
 </table>
 
 <br>
-<hr width="100%" >
-<h3 align="center">⚙️ My GitHub Stats</h3>
+<hr width="100%">
 
-<img align="right" alt="Coding" width="300"
-src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<!-- 2️⃣ GitHub Snake Animation Setup -->
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimesh-1234/nimesh-1234/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" />
+<br>
+<hr width="100%">
+
+<!-- 1️⃣ GitHub Metrics Dashboard & Original Stats -->
+## ⚙️ GitHub Analytics & Metrics
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="140" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=8&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="140" />
 </p>
 
-<hr width="100%" >
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="400" />
+</p>
+
+<h3 align="left">📈 Infographics & Metrics</h3>
+<p align="center">
+  <img src="https://metrics.lecoq.io/nimesh-1234?template=classic&config.timezone=Asia%2FColombo&base.header=0&base.activity=1&base.community=1&base.repositories=1&metadata=0&hide_border=true" width="100%" />
+</p>
+
+<br clear="all">
+<hr width="100%">
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fb.com/nimeshdilshan869" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@nimesh869" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://fb.com/nimeshdilshan869" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nimesh869" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
+
+<!-- 5️⃣ Better Footer -->
+<br>
+<div align="center">
+  <h3>🚀 Let's Build Something Amazing Together</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=120&section=footer"/>
+</div>
