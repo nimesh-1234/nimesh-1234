@@ -102,9 +102,15 @@
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-  👥 <a href="https://fb.com/nimeshdilshan869" target="_blank"><b>Facebook</b></a> &nbsp;•&nbsp; 
-  📺 <a href="https://www.youtube.com/@nimesh869" target="_blank"><b>YouTube</b></a>
+  <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351?target=_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://fb.com/nimeshdilshan869?target=_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nimesh869?target=_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 <br>
