@@ -1,12 +1,8 @@
-<!-- 6️⃣ Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Hi%20👋,%20I'm%20Nimesh%20Dilshan&fontSize=35&fontColor=ffffff&fontAlignY=45"/>
 
-<!-- 4️⃣ Better Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;DevOps+%7C+Docker+Enthusiaut;Always+Learning+New+Technologies" />
 </p>
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimesh-1234&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-1234" /> </p> -->
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -51,7 +47,6 @@
 <br>
 <hr width="100%">
 
-<!-- 2️⃣ GitHub Snake Animation Setup -->
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/nimesh-1234/nimesh-1234/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -60,14 +55,12 @@
 <br>
 <hr width="100%">
 
-<!-- 1️⃣ GitHub Metrics Dashboard & Original Stats (Advanced Grid) -->
 ## ⚙️ GitHub Analytics & Metrics
 
 <p align="center">
   <img align="right" alt="Coding GIF" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin-left: 15px;">
 </p>
 
-<!-- Side-by-Side Cards (Increased Height & Fast Load with Mirror Server) -->
 <p align="left">
   <a href="https://github.com/nimesh-1234">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="185" />
@@ -77,7 +70,6 @@
   </a>
 </p>
 
-<!-- Most Used Languages Card (Increased Width to Balance Layout with Mirror Server) -->
 <p align="left">
   <a href="https://github.com/nimesh-1234">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
@@ -98,7 +90,7 @@
 
 <h3 align="left">📅 Weekly Coding Activity (WakaTime)</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
+  <img src="https://anuraghazra-github-readme-stats.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
 </p>
 
 <br clear="all">
@@ -117,7 +109,6 @@
   </a>
 </p>
 
-<!-- 5️⃣ Better Footer -->
 <br>
 <div align="center">
   <h3>🚀 Let's Build Something Amazing Together</h3>
