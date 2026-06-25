@@ -67,20 +67,20 @@
   <img align="right" alt="Coding GIF" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin-left: 15px;">
 </p>
 
-<!-- Side-by-Side Cards (Increased Height & Fast Load) -->
+<!-- Side-by-Side Cards (Increased Height & Fast Load with Mirror Server) -->
 <p align="left">
   <a href="https://github.com/nimesh-1234">
-    <img src="https://github-readme-stats.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" height="185" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="185" />
   </a>
   <a href="https://github.com/nimesh-1234">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="185" />
   </a>
 </p>
 
-<!-- Most Used Languages Card (Increased Width to Balance Layout) -->
+<!-- Most Used Languages Card (Increased Width to Balance Layout with Mirror Server) -->
 <p align="left">
   <a href="https://github.com/nimesh-1234">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 
 <h3 align="left">📅 Weekly Coding Activity (WakaTime)</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
 </p>
 
 <br clear="all">
