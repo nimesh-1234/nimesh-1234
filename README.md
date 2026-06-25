@@ -1,8 +1,12 @@
+<!-- 6️⃣ Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Hi%20👋,%20I'm%20Nimesh%20Dilshan&fontSize=35&fontColor=ffffff&fontAlignY=45"/>
 
+<!-- 4️⃣ Better Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;DevOps+%7C+Docker+Enthusiaut;Always+Learning+New+Technologies" />
 </p>
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimesh-1234&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-1234" /> </p> -->
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -98,17 +102,18 @@
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank">
+  <a href="https://www.linkedin.com/in/nimesh-dilshan-332690351" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://fb.com/nimeshdilshan869" target="_blank">
+  <a href="https://fb.com/nimeshdilshan869" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nimesh869" target="_blank">
+  <a href="https://www.youtube.com/@nimesh869" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
+<!-- 5️⃣ Better Footer -->
 <br>
 <div align="center">
   <h3>🚀 Let's Build Something Amazing Together</h3>
