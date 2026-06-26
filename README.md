@@ -8,7 +8,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimesh-1234&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-1234" /> </p> -->
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+## 👤 About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
@@ -65,36 +65,16 @@
   <img align="right" alt="Coding GIF" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin-left: 15px;">
 </p>
 
+<!-- 100% Official Native GitHub Contribution Graph -->
 <p align="left">
-  <a href="https://github.com/nimesh-1234">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="185" />
-  </a>
-  <a href="https://github.com/nimesh-1234">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="185" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/nimesh-1234">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh-1234&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 <br clear="all">
 
-<h3 align="left">📈 Infographics & Metrics</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh-1234&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
-</p>
-
-<h3 align="left">📊 Profile Growth Summary</h3>
+<h3 align="left">📊 Profile Summary (Native Metrics)</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimesh-1234&theme=tokyonight" width="100%" />
-</p>
-
-<h3 align="left">📅 Weekly Coding Activity (WakaTime)</h3>
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/wakatime?username=nimesh_1234&theme=tokyonight&layout=compact&hide_border=true" width="495" />
 </p>
 
 <br clear="all">
@@ -113,6 +93,7 @@
   </a>
 </p>
 
+<!-- 5️⃣ Better Footer -->
 <br>
 <div align="center">
   <h3>🚀 Let's Build Something Amazing Together</h3>
