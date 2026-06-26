@@ -65,8 +65,27 @@
   <img align="right" alt="Coding GIF" width="260" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin-left: 15px;">
 </p>
 
-<!-- 100% Official Native GitHub Contribution Graph -->
+<!-- Side-by-Side Original Stats Cards (Stable Git-Master API) -->
 <p align="left">
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=nimesh-1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" height="185" />
+  </a>
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-1234&theme=tokyonight&hide_border=true" height="185" />
+  </a>
+</p>
+
+<!-- Most Used Languages Card (Stable Git-Master API) -->
+<p align="left">
+  <a href="https://github.com/nimesh-1234">
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=nimesh-1234&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="495" />
+  </a>
+</p>
+
+<br clear="all">
+
+<!-- 100% Official Native GitHub Contribution Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh-1234&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
